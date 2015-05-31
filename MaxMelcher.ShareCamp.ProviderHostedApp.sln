@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMelcher.ShareCamp.ProviderHostedApp", "MaxMelcher.ShareCamp.ProviderHostedApp\MaxMelcher.ShareCamp.ProviderHostedApp.csproj", "{4D3E8364-EB71-462A-BBF7-45DBAB1C7EE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMelcher.ShareCamp.ProviderHostedAppWeb", "MaxMelcher.ShareCamp.ProviderHostedAppWeb\MaxMelcher.ShareCamp.ProviderHostedAppWeb.csproj", "{30944C10-3AB4-473B-93BA-C17556E0DC78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3E8364-EB71-462A-BBF7-45DBAB1C7EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3E8364-EB71-462A-BBF7-45DBAB1C7EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3E8364-EB71-462A-BBF7-45DBAB1C7EE1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4D3E8364-EB71-462A-BBF7-45DBAB1C7EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3E8364-EB71-462A-BBF7-45DBAB1C7EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3E8364-EB71-462A-BBF7-45DBAB1C7EE1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{30944C10-3AB4-473B-93BA-C17556E0DC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30944C10-3AB4-473B-93BA-C17556E0DC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30944C10-3AB4-473B-93BA-C17556E0DC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30944C10-3AB4-473B-93BA-C17556E0DC78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
